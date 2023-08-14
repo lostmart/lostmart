@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @lostmart
 - 👀 I’m interested in building stuff and playing music
-- 🌱 I’m currently learning Nuxt and Next
-- 💞️ I’m looking to collaborate on whataver you throw at me !  =)
+- 🌱 If you have any project or challange you'd like to share, I'd love to hear from it !  =)
 - 📫 How to reach me codeme.martin@gmail.com
