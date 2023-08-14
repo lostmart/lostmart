@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @lostmart
 - 👀 I’m interested in building stuff and playing music
+- I'm a full-stacj web developer, with a tendency toward front-end
 - 🌱 If you have any project or challange you'd like to share, I'd love to hear from it !  =)
 - 📫 How to reach me codeme.martin@gmail.com
