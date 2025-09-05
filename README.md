@@ -11,7 +11,7 @@
 - [WOW Market](https://github.com/UMC-WOWMARKET), *University Merchandise Group Purchase Platform*, (23.06 ~ 23.08)
 - [ML Project](https://github.com/geeoneee/Website-Fingerprinting), *Website Fingerprinting Defense using Machine Learning* (23.08~23.12)
 
-![Static Badge]([https://img.shields.io/badge/:badgeContent](https://img.shields.io/badge/just%20the%20message-8A2BE2)
+![Static Badge]([https://img.shields.io/badge/:badgeContent](https://img.shields.io/badge/just%20the%20message-8A2BE2))
 
 
 
