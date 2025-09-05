@@ -10,7 +10,7 @@
 
 ### 🧰 Projects
 
-- [PMT-rest-NodeJs](https://github.com/lostmart/PMT-rest-NodeJs), *REST API for the Project Manager Tool: Node.js, TypeScript, and Express
+- [PMT-rest-NodeJs](https://github.com/lostmart/PMT-rest-NodeJs), *REST API* for the Project Manager Tool: Node.js, TypeScript, and Express
 - [LocalMood](https://github.com/local-mood), *Keyword-Based Local Curation Service*, (24.10~25.02)
 - [WOW Market](https://github.com/UMC-WOWMARKET), *University Merchandise Group Purchase Platform*, (23.06 ~ 23.08)
 - [ML Project](https://github.com/geeoneee/Website-Fingerprinting), *Website Fingerprinting Defense using Machine Learning* (23.08~23.12)
@@ -49,6 +49,9 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+
 
 
 
