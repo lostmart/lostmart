@@ -11,9 +11,8 @@
 ### 🧰 Projects
 
 - [PMT-rest-NodeJs](https://github.com/lostmart/PMT-rest-NodeJs), *REST API* for the Project Manager Tool: Node.js, TypeScript, and Express
-- [LocalMood](https://github.com/local-mood), *Keyword-Based Local Curation Service*, (24.10~25.02)
-- [WOW Market](https://github.com/UMC-WOWMARKET), *University Merchandise Group Purchase Platform*, (23.06 ~ 23.08)
-- [ML Project](https://github.com/geeoneee/Website-Fingerprinting), *Website Fingerprinting Defense using Machine Learning* (23.08~23.12)
+- [Godparents Network ](https://github.com/lostmart/islNetwork-multilang), *Front-end site* created with Vuejs and consumes data from a headless Wordpress
+- [House Renting App](https://github.com/lostmart/keyNestAng), *Front-end sie* for houses rentals created in React and TypeScript. Multilanguage support
 
 
 ### 🧰 Core Languages
