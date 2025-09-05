@@ -1,8 +1,12 @@
-- 👋 Hi, I’m @lostmart
-- 👀 I’m interested in building creating dynamic, user-friendly web solutions (and playing music 🎹)
-- I'm a full-stack web developer, with a tendency toward front-end
-- 🌱 If you have any project or challange you'd like to share, I'd love to hear from it !  =)
-- 📫 How to reach me codeme.martin@gmail.com
+## Well met, fellow coder ⚔️
+
+- 👋 Hi, I’m @lostmart  
+- 👀 I’m interested in building and creating dynamic, user-friendly web solutions (and playing music 🎹)  
+- 💻 I'm a full-stack web developer, with a tendency toward front-end  
+- 🌱 If you have any project or challenge you'd like to share, I'd love to hear about it! =)  
+- 📫 How to reach me: **codeme.martin@gmail.com**  
+- 🌐 Check out my portfolio: [personal-site-react.netlify.app](https://personal-site-react.netlify.app/)  
+
 
 ### 🧰 Projects
 
