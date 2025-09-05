@@ -6,10 +6,13 @@
 
 ### 🎀 Projects
 
-- [Pickin’](https://github.com/Capston-2024), *Personalized Job Posting Recommendation Service for International Students Based on the KoBERT Model*, (24.09~)
+- [PMT-rest-NodeJs](https://github.com/lostmart/PMT-rest-NodeJs), *REST API for the Project Manager Tool: Node.js, TypeScript, and Express
 - [LocalMood](https://github.com/local-mood), *Keyword-Based Local Curation Service*, (24.10~25.02)
 - [WOW Market](https://github.com/UMC-WOWMARKET), *University Merchandise Group Purchase Platform*, (23.06 ~ 23.08)
 - [ML Project](https://github.com/geeoneee/Website-Fingerprinting), *Website Fingerprinting Defense using Machine Learning* (23.08~23.12)
+
+![Static Badge](https://img.shields.io/badge/:badgeContent)
+
 
 
 ### ⚡ Skills
