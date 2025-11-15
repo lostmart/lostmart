@@ -17,6 +17,7 @@
 - [Godparents Network ](https://github.com/lostmart/islNetwork-multilang), *Front-end site* created with Vuejs and consumes data from a headless Wordpress
 - [House Renting App](https://github.com/lostmart/keyNestAng), *Front-end sie* for houses rentals created in React and TypeScript. Multilanguage support
 - [Classic-Cars API](https://github.com/lostmart/classic-cars-api) *Backend for car rental company* Stack : PHP, Slim Framework, SQLite, architecture MVC
+- [Horizon University](https://github.com/lostmart/university-front-react) *Front end for a University Page* Stack: React, Tailwind, Framer Motion
 
 
 ### 🧰 Core Languages
