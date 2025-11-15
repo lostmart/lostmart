@@ -10,6 +10,8 @@
 
 ### 🧰 Projects
 
+- [Auth Microservice](https://github.com/lostmart/auth-microservice) *Microservice d'authentification production-ready
+* Stack : TypeScript, Node.js/Express, PostgreSQL, Docker, Jest, GitHub Actions
 - [PMT-rest-NodeJs](https://github.com/lostmart/PMT-rest-NodeJs), *REST API* for the Project Manager Tool: Node.js, TypeScript, and Express
 - [Godparents Network ](https://github.com/lostmart/islNetwork-multilang), *Front-end site* created with Vuejs and consumes data from a headless Wordpress
 - [House Renting App](https://github.com/lostmart/keyNestAng), *Front-end sie* for houses rentals created in React and TypeScript. Multilanguage support
