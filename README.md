@@ -78,5 +78,5 @@
 
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lostmart&show_icons=true&theme=dark" alt="Martin's GitHub Stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lostmart&theme=dark" alt="Martin's GitHub Stats">
 </div>
