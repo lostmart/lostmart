@@ -76,4 +76,7 @@
 
 
 
-![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=lostmart&theme=dark)
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lostmart&theme=dark" alt="GitHub Streak Stats"/>
+</div>
